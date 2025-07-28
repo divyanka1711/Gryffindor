@@ -1,0 +1,1180 @@
+text,page,pdf_file,label
+Application form for grant of LTC advance,1,file01.pdf,TITLE
+1.,1,file01.pdf,OTHER
+2.,1,file01.pdf,OTHER
+3.,1,file01.pdf,OTHER
+Name of the Government Servant,1,file01.pdf,OTHER
+Designation,1,file01.pdf,OTHER
+Date  of  entering  the  Central  Government,1,file01.pdf,OTHER
+Service,1,file01.pdf,OTHER
+PAY + SI + NPA,1,file01.pdf,OTHER
+4.,1,file01.pdf,OTHER
+5.  Whether permanent or temporary,1,file01.pdf,OTHER
+6.,1,file01.pdf,OTHER
+Home Town as recorded in the Service Book,1,file01.pdf,OTHER
+Whether  wife  /  husband  is  employed  and  if,1,file01.pdf,OTHER
+7.,1,file01.pdf,OTHER
+8.,1,file01.pdf,OTHER
+9.,1,file01.pdf,OTHER
+so whether entitled to LTC,1,file01.pdf,OTHER
+Whether  the  concession  is  to  be  availed  for,1,file01.pdf,OTHER
+visiting home  town and  if  so block for  which,1,file01.pdf,OTHER
+LTC is to be availed.,1,file01.pdf,OTHER
+(a)  If  the  concession  is  to  visit  anywhere  in,1,file01.pdf,OTHER
+"India, the place to be visited.",1,file01.pdf,OTHER
+(b) Block for which to be availed.,1,file01.pdf,OTHER
+Single,1,file01.pdf,OTHER
+rail,1,file01.pdf,OTHER
+fare/bus,1,file01.pdf,OTHER
+fare,1,file01.pdf,OTHER
+from,1,file01.pdf,OTHER
+the,1,file01.pdf,OTHER
+10.,1,file01.pdf,OTHER
+headquarters  to  home  town/place  of  visit  by,1,file01.pdf,OTHER
+shortest route.,1,file01.pdf,OTHER
+Persons in respect of whom LTC is proposed to be availed.,1,file01.pdf,OTHER
+Name,1,file01.pdf,OTHER
+Age,1,file01.pdf,OTHER
+Relationship,1,file01.pdf,OTHER
+S.No,1,file01.pdf,OTHER
+1.,1,file01.pdf,OTHER
+2.,1,file01.pdf,OTHER
+3.,1,file01.pdf,OTHER
+4.,1,file01.pdf,OTHER
+5.,1,file01.pdf,OTHER
+6.,1,file01.pdf,OTHER
+Amount of advance required.,1,file01.pdf,OTHER
+Rs.,1,file01.pdf,OTHER
+11.,1,file01.pdf,OTHER
+12.,1,file01.pdf,OTHER
+I  declare  that  the  particulars  furnished  above  are  true  and  correct  to  the  best  of  my  knowledge.,1,file01.pdf,OTHER
+I,1,file01.pdf,OTHER
+undertake to produce the tickets for the outward journey within ten days of receipt of the advance.,1,file01.pdf,OTHER
+In  the  event  of  cancellation  of  the  journey  or  if  I  fail  to  produce  the  tickets  within  ten  days  of  receipt of,1,file01.pdf,OTHER
+"advance, I undertake to refund the entire advance in one lump sum.",1,file01.pdf,OTHER
+Date,1,file01.pdf,OTHER
+Signature of Government Servant.,1,file01.pdf,OTHER
+Overview,1,file02.pdf,TITLE
+Foundation Level Extensions,1,file02.pdf,TITLE
+Version 1.0,1,file02.pdf,OTHER
+International Software Testing Qualifications Board,1,file02.pdf,TITLE
+Copyright Notice,1,file02.pdf,OTHER
+"This document may be copied in its entirety, or extracts made, if the source is acknowledged.",1,file02.pdf,OTHER
+Overview,2,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,2,file02.pdf,OTHER
+International,2,file02.pdf,OTHER
+Software Testing,2,file02.pdf,OTHER
+Qualifications Board,2,file02.pdf,OTHER
+Copyright © International Software Testing Qualifications Board (hereinafter called ISTQB®).,2,file02.pdf,OTHER
+Version 2014,2,file02.pdf,OTHER
+Page 2 of 12,2,file02.pdf,OTHER
+"May 31, 2014",2,file02.pdf,OTHER
+© International Software Testing Qualifications Board,2,file02.pdf,OTHER
+Overview,3,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,3,file02.pdf,OTHER
+International,3,file02.pdf,OTHER
+Software Testing,3,file02.pdf,OTHER
+Qualifications Board,3,file02.pdf,OTHER
+Revision History,3,file02.pdf,H1
+Version,3,file02.pdf,H1
+0.1,3,file02.pdf,OTHER
+0.2,3,file02.pdf,OTHER
+0.3,3,file02.pdf,OTHER
+0.7,3,file02.pdf,OTHER
+0.8,3,file02.pdf,OTHER
+1.0,3,file02.pdf,OTHER
+Date,3,file02.pdf,OTHER
+18 JUNE 2013,3,file02.pdf,OTHER
+23 JULY 2013,3,file02.pdf,OTHER
+6 NOV 2013,3,file02.pdf,OTHER
+11 DEC 2013,3,file02.pdf,OTHER
+20 DEC 2013,3,file02.pdf,OTHER
+31 MAY 2014,3,file02.pdf,OTHER
+Remarks,3,file02.pdf,H1
+Initial version,3,file02.pdf,OTHER
+WG reviewed and confirmed,3,file02.pdf,OTHER
+amended population and diagram,3,file02.pdf,OTHER
+Amended Business Outcomes and Chapters matching,3,file02.pdf,OTHER
+Working group updates on 0.7,3,file02.pdf,OTHER
+GA release for Agile Extension,3,file02.pdf,OTHER
+Version 2014,3,file02.pdf,OTHER
+Page 3 of 12,3,file02.pdf,OTHER
+"May 31, 2014",3,file02.pdf,OTHER
+© International Software Testing Qualifications Board,3,file02.pdf,OTHER
+Overview,4,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,4,file02.pdf,OTHER
+International,4,file02.pdf,OTHER
+Software Testing,4,file02.pdf,OTHER
+Qualifications Board,4,file02.pdf,OTHER
+Table of Contents,4,file02.pdf,H1
+Revision History,4,file02.pdf,H1
+..........................................................................................................................................,4,file02.pdf,OTHER
+3,4,file02.pdf,OTHER
+Table of Contents,4,file02.pdf,H1
+........................................................................................................................................,4,file02.pdf,OTHER
+4,4,file02.pdf,OTHER
+1.,4,file02.pdf,OTHER
+2.,4,file02.pdf,OTHER
+Introduction to the Foundation Level Extensions,4,file02.pdf,OTHER
+............................................................................,4,file02.pdf,OTHER
+6,4,file02.pdf,OTHER
+Introduction to Foundation Level Agile Tester Extension,4,file02.pdf,OTHER
+...............................................................,4,file02.pdf,OTHER
+7,4,file02.pdf,OTHER
+2.1,4,file02.pdf,OTHER
+Intended Audience,4,file02.pdf,OTHER
+2.2  Career Paths for Testers,4,file02.pdf,OTHER
+Learning Objectives,4,file02.pdf,OTHER
+2.3,4,file02.pdf,OTHER
+Entry Requirements,4,file02.pdf,OTHER
+2.4,4,file02.pdf,OTHER
+Structure and Course Duration,4,file02.pdf,OTHER
+2.5,4,file02.pdf,OTHER
+Keeping It Current,4,file02.pdf,OTHER
+2.6,4,file02.pdf,OTHER
+.....................................................................................................................,4,file02.pdf,OTHER
+............................................................................................................,4,file02.pdf,OTHER
+...................................................................................................................,4,file02.pdf,OTHER
+...................................................................................................................,4,file02.pdf,OTHER
+...................................................................................................,4,file02.pdf,OTHER
+......................................................................................................................,4,file02.pdf,OTHER
+7,4,file02.pdf,OTHER
+7,4,file02.pdf,OTHER
+7,4,file02.pdf,OTHER
+8,4,file02.pdf,OTHER
+8,4,file02.pdf,OTHER
+9,4,file02.pdf,OTHER
+3.  Overview of the Foundation Level Extension – Agile Tester Syllabus,4,file02.pdf,OTHER
+.........................................,4,file02.pdf,OTHER
+10,4,file02.pdf,OTHER
+3.1,4,file02.pdf,OTHER
+3.2  Content,4,file02.pdf,OTHER
+Business Outcomes,4,file02.pdf,OTHER
+.................................................................................................................,4,file02.pdf,OTHER
+....................................................................................................................................,4,file02.pdf,OTHER
+10,4,file02.pdf,OTHER
+10,4,file02.pdf,OTHER
+4.  References,4,file02.pdf,OTHER
+..........................................................................................................................................,4,file02.pdf,OTHER
+12,4,file02.pdf,OTHER
+Trademarks,4,file02.pdf,OTHER
+4.1,4,file02.pdf,OTHER
+4.2  Documents and Web Sites,4,file02.pdf,OTHER
+.............................................................................................................................,4,file02.pdf,OTHER
+.......................................................................................................,4,file02.pdf,OTHER
+12,4,file02.pdf,OTHER
+12,4,file02.pdf,OTHER
+Version 2014,4,file02.pdf,OTHER
+Page 4 of 12,4,file02.pdf,OTHER
+"May 31, 2014",4,file02.pdf,OTHER
+© International Software Testing Qualifications Board,4,file02.pdf,OTHER
+Overview,5,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,5,file02.pdf,OTHER
+International,5,file02.pdf,OTHER
+Software Testing,5,file02.pdf,OTHER
+Qualifications Board,5,file02.pdf,OTHER
+Acknowledgements,5,file02.pdf,H1
+This document was produced by a team from the International Software Testing Qualifications Board,5,file02.pdf,OTHER
+Foundation Level Working Group.,5,file02.pdf,OTHER
+The Agile Extension team thanks the review team and the National Boards for their suggestions and input.,5,file02.pdf,OTHER
+"At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working",5,file02.pdf,OTHER
+"Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry",5,file02.pdf,OTHER
+"Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes",5,file02.pdf,OTHER
+"and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aalst (Development Lead).",5,file02.pdf,OTHER
+"Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon",5,file02.pdf,OTHER
+"Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber.",5,file02.pdf,OTHER
+"Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",5,file02.pdf,OTHER
+"Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula",5,file02.pdf,OTHER
+"Pääkkönen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkönen, Monika Stoecklein-Olsen,",5,file02.pdf,OTHER
+"Robert Treffny, Chris Van Bael, and Erik van Veenendaal.",5,file02.pdf,OTHER
+"The team thanks also the following persons, from the National Boards and the Agile expert community,",5,file02.pdf,OTHER
+"who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani",5,file02.pdf,OTHER
+"Almog, Richard Berns, Stephen Bird, Monika Bögge, Afeng Chai, Josephine Crawford, Tibor Csöndes,",5,file02.pdf,OTHER
+"Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill",5,file02.pdf,OTHER
+"Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter",5,file02.pdf,OTHER
+"Morgan, Ninna Morin, Ingvar Nordstrom, Chris O’Dea, Klaus Olsen, Ismo Paukamainen, Nathalie Phung,",5,file02.pdf,OTHER
+"Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik",5,file02.pdf,OTHER
+"Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde,",5,file02.pdf,OTHER
+"Stephanie Ulrich, Tommi Välimäki, Jurian Van de Laar, Marnix Van den Ent, António Vieira Melo, Wenye",5,file02.pdf,OTHER
+"Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",5,file02.pdf,OTHER
+"This document was formally approved for release by the General Assembly of the ISTQB® on May 31,",5,file02.pdf,OTHER
+2014.,5,file02.pdf,OTHER
+Version 2014,5,file02.pdf,OTHER
+Page 5 of 12,5,file02.pdf,OTHER
+"May 31, 2014",5,file02.pdf,OTHER
+© International Software Testing Qualifications Board,5,file02.pdf,OTHER
+Overview,6,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,6,file02.pdf,OTHER
+International,6,file02.pdf,OTHER
+Software Testing,6,file02.pdf,OTHER
+Qualifications Board,6,file02.pdf,OTHER
+1.  Introduction to the Foundation Level Extensions,6,file02.pdf,H1
+This  overview  document  is  intended  for  anyone  with  an  interest  in  the  ISTQB  Foundation  Level,6,file02.pdf,OTHER
+Extensions who wants a high-level introduction to the leading principles and an overview of the individual,6,file02.pdf,OTHER
+extension syllabi.,6,file02.pdf,OTHER
+"From  time  to  time,  ISTQB  will  update  this  document  to  reflect  any  additional  extensions  that  shall  be",6,file02.pdf,OTHER
+"introduced  for  the  Foundation  Level,  or  to  reflect  major  changes  in  existing  ones.  Publications  of  the",6,file02.pdf,OTHER
+updated document will be available on the ISTQB website.,6,file02.pdf,OTHER
+The ISTQB Foundation and Advanced Level syllabi have been defined and have been on the market for,6,file02.pdf,OTHER
+some  time.  New  topics  emerge  due  to  technology  and  methodology  changes  in  the  market  which  often,6,file02.pdf,OTHER
+"are brought into the ISTQB program as new Expert Level syllabi. However, not all topics are suited for the",6,file02.pdf,OTHER
+"Expert Level.  For this reason, the extension syllabi are established at the Foundation Level to expand the",6,file02.pdf,OTHER
+ISTQB  program  to  incorporate  new  or  updated  knowledge.  New  extensions  shall  be  discussed  and,6,file02.pdf,OTHER
+"introduced by the ISTQB periodically. Extensions may be established at the Advanced Level  as well, but",6,file02.pdf,OTHER
+that is beyond the scope of this document.,6,file02.pdf,OTHER
+The following Foundation Level Extension syllabus has been released:,6,file02.pdf,OTHER
+  Agile Tester,6,file02.pdf,OTHER
+"In this document, each Foundation Level Extension syllabus is summarized and the associated Business",6,file02.pdf,OTHER
+Outcomes are stated.  The Business Outcomes communicate what can be expected from a person who,6,file02.pdf,OTHER
+"achieves  a  Foundation  Level  Extension Certification in a particular subject  area  (e.g.,  Agile Tester),  and",6,file02.pdf,OTHER
+will outline the benefits for companies that are considering the development of specific testing skills at this,6,file02.pdf,OTHER
+level.,6,file02.pdf,OTHER
+Version 2014,6,file02.pdf,OTHER
+Page 6 of 12,6,file02.pdf,OTHER
+"May 31, 2014",6,file02.pdf,OTHER
+© International Software Testing Qualifications Board,6,file02.pdf,OTHER
+Overview,7,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,7,file02.pdf,OTHER
+International,7,file02.pdf,OTHER
+Software Testing,7,file02.pdf,OTHER
+Qualifications Board,7,file02.pdf,OTHER
+2.  Introduction to Foundation Level Agile Tester Extension,7,file02.pdf,H1
+The  certification  for  Foundation  Level  Extension  –  Agile  Tester  is  designed  for  professionals  who  are,7,file02.pdf,OTHER
+working  within  Agile  environments.,7,file02.pdf,OTHER
+It  is  also  for  professionals  who  are  planning  to  start  implementing,7,file02.pdf,OTHER
+"Agile  methods  in  the  near  future,  or  are  working  within  companies  that  plan  to  do  so,  The  certification",7,file02.pdf,OTHER
+"provides an advantage for those who would like to know the required Agile activities, roles, methods, and",7,file02.pdf,OTHER
+methodologies specific to their role.,7,file02.pdf,OTHER
+2.1  Intended Audience,7,file02.pdf,H2
+The Foundation Level Extension – Agile Tester qualification is aimed at four main groups of professionals:,7,file02.pdf,OTHER
+1.  Professionals  who  have  achieved  in-depth  testing  experience  in  traditional  methods  and  would,7,file02.pdf,OTHER
+like to get an Agile Tester Certificate.,7,file02.pdf,OTHER
+"2.  Junior  professional  testers  who  are  just  starting  in  the  testing  profession,  have  received  the",7,file02.pdf,OTHER
+"Foundation  Level  certificate,  and  would  like  to  know  more  about  the  tester’s  role  in  an  Agile",7,file02.pdf,OTHER
+environment.,7,file02.pdf,OTHER
+"3.  Professionals  who  are  relatively  new  to  testing  and  are  required  to  implement  test  approaches,",7,file02.pdf,OTHER
+methods and techniques in their day to day job in Agile projects.,7,file02.pdf,OTHER
+4.  Professionals  who  are  experienced  in  their  role  (including  unit  testing)  and  need  more,7,file02.pdf,OTHER
+understanding  and  knowledge  about  how  to  perform  and  manage  testing  on  all  levels  in  Agile,7,file02.pdf,OTHER
+projects.,7,file02.pdf,OTHER
+"These  professionals  include  people  who  are  in  roles  such  as  testers,  test  analysts,  test  engineers,  test",7,file02.pdf,OTHER
+"consultants, test managers, user acceptance testers, and software developers.",7,file02.pdf,OTHER
+This  Foundation  Level  Extension  –  Agile  Tester  certification  may  also  be  appropriate  for  anyone  who,7,file02.pdf,OTHER
+"wants  a  deeper  understanding  of  software  testing  in  the  Agile  world,  such  as  project  managers,  quality",7,file02.pdf,OTHER
+"managers,  software  development  managers,  business  analysts,",7,file02.pdf,OTHER
+"IT  directors,  and  management",7,file02.pdf,OTHER
+consultants.,7,file02.pdf,OTHER
+2.2  Career Paths for Testers,7,file02.pdf,H2
+"Building  on  the  Foundation  Level,  the  Agile  Tester  Extension  supports  the  definition  of  career  paths  for",7,file02.pdf,OTHER
+professional testers.  A person with the Agile Tester  certificate has extended the broad understanding of,7,file02.pdf,OTHER
+testing acquired at the Foundation Level to enable him or her to work effectively as a professional tester in,7,file02.pdf,OTHER
+an Agile project.,7,file02.pdf,OTHER
+People possessing an ISTQB Foundation Level Extension – Agile Tester certificate may use the Certified,7,file02.pdf,OTHER
+Tester Foundation Level acronym CTFL-AT.,7,file02.pdf,OTHER
+2.3  Learning Objectives,7,file02.pdf,H2
+"In  general,  the  Foundation  Level syllabus  is  examinable  at  a  K1  level,  i.e.,  the candidate  will  recognize,",7,file02.pdf,OTHER
+remember and recall terms and concepts stated in the Foundation Level syllabus.,7,file02.pdf,OTHER
+"In  addition,  all  Foundation  Level  syllabus  learning  objectives  are  examinable  at  the  same  K- level  in  an",7,file02.pdf,OTHER
+extension exam.,7,file02.pdf,OTHER
+Version 2014,7,file02.pdf,OTHER
+Page 7 of 12,7,file02.pdf,OTHER
+"May 31, 2014",7,file02.pdf,OTHER
+© International Software Testing Qualifications Board,7,file02.pdf,OTHER
+Overview,8,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,8,file02.pdf,OTHER
+International,8,file02.pdf,OTHER
+Software Testing,8,file02.pdf,OTHER
+Qualifications Board,8,file02.pdf,OTHER
+"That  said,  each  extension  level  exam  focuses  on  the  learning  objectives  defined  in  that  extension",8,file02.pdf,OTHER
+"syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each",8,file02.pdf,OTHER
+chapter within each particular extension syllabus.,8,file02.pdf,OTHER
+2.4  Entry Requirements,8,file02.pdf,H2
+"To  be  able  to  participate  in  a  Foundation  Level  Extension  –  Agile  Tester  exam,  candidates  must  have",8,file02.pdf,OTHER
+obtained the ISTQB Foundation Level certificate.,8,file02.pdf,OTHER
+2.5  Structure and Course Duration,8,file02.pdf,H2
+The  Foundation  Level  Extension  –  Agile  Tester  syllabus  has  no  shared  or  common  elements  with  the,8,file02.pdf,OTHER
+Foundation Level syllabus.,8,file02.pdf,OTHER
+The syllabi must be taught in the following minimum number of days:,8,file02.pdf,OTHER
+Syllabus,8,file02.pdf,OTHER
+Baseline: Foundation,8,file02.pdf,OTHER
+Extension: Agile Tester,8,file02.pdf,OTHER
+Days,8,file02.pdf,OTHER
+3,8,file02.pdf,OTHER
+2,8,file02.pdf,OTHER
+The  following  figure  shows  the  structure  of  the  Agile  Tester  Extension  and  its  relationship  to  the,8,file02.pdf,OTHER
+Foundation Level.,8,file02.pdf,OTHER
+Version 2014,8,file02.pdf,OTHER
+Page 8 of 12,8,file02.pdf,OTHER
+"May 31, 2014",8,file02.pdf,OTHER
+© International Software Testing Qualifications Board,8,file02.pdf,OTHER
+Overview,9,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,9,file02.pdf,OTHER
+International,9,file02.pdf,OTHER
+Software Testing,9,file02.pdf,OTHER
+Qualifications Board,9,file02.pdf,OTHER
+2.6  Keeping It Current,9,file02.pdf,H2
+The software industry changes rapidly.  To deal with these changes and to provide the stakeholders with,9,file02.pdf,OTHER
+"access  to  relevant  and  current  information,  the  ISTQB  working  groups  have  created  links  on  the",9,file02.pdf,OTHER
+"www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences",9,file02.pdf,OTHER
+in the industry.  This information is not examinable under this syllabus.,9,file02.pdf,OTHER
+Version 2014,9,file02.pdf,OTHER
+Page 9 of 12,9,file02.pdf,OTHER
+"May 31, 2014",9,file02.pdf,OTHER
+© International Software Testing Qualifications Board,9,file02.pdf,OTHER
+Overview,10,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,10,file02.pdf,OTHER
+International,10,file02.pdf,OTHER
+Software Testing,10,file02.pdf,OTHER
+Qualifications Board,10,file02.pdf,OTHER
+3.  Overview of the Foundation Level Extension – Agile Tester,10,file02.pdf,H1
+Syllabus,10,file02.pdf,H1
+3.1  Business Outcomes,10,file02.pdf,H2
+This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level,10,file02.pdf,OTHER
+Extension – Agile Tester certification.,10,file02.pdf,OTHER
+An Agile Tester can…,10,file02.pdf,OTHER
+AFM1  Collaborate in a cross-functional Agile team being familiar with principles and basic,10,file02.pdf,OTHER
+practices of Agile software development.,10,file02.pdf,OTHER
+AFM2  Adapt existing testing experience and knowledge to Agile values and principles.,10,file02.pdf,OTHER
+AFM3  Support the Agile team in planning test-related activities.,10,file02.pdf,OTHER
+AFM4  Apply relevant methods and techniques for testing in an Agile project.,10,file02.pdf,OTHER
+AFM5  Assist the Agile team in test automation activities.,10,file02.pdf,OTHER
+"AFM6  Assist business stakeholders in defining understandable and testable user stories,",10,file02.pdf,OTHER
+"scenarios, requirements and acceptance criteria as appropriate.",10,file02.pdf,OTHER
+AFM7  Work and share information with other team members using effective communication,10,file02.pdf,OTHER
+styles and channels.,10,file02.pdf,OTHER
+"In general, a Certified Tester Foundation Level – Agile Tester is expected to have acquired the necessary",10,file02.pdf,OTHER
+skills to working effectively within an Agile team and environment.,10,file02.pdf,OTHER
+3.2  Content,10,file02.pdf,H2
+Chapter 1: Agile Software Development,10,file02.pdf,OTHER
+  The tester should remember the basic concept of Agile software development based on the Agile,10,file02.pdf,OTHER
+Manifesto.,10,file02.pdf,OTHER
+  The  tester  should  understand  the  advantages  of  the  whole-team  approach  and  the  benefits  of,10,file02.pdf,OTHER
+early and frequent feedback.,10,file02.pdf,OTHER
+  The tester should recall Agile software development approaches.,10,file02.pdf,OTHER
+  The  tester  should  be  able  to  write  testable  user  stories  in  collaboration  with  developers  and,10,file02.pdf,OTHER
+business representatives.,10,file02.pdf,OTHER
+  The  tester  should  understand  how  retrospectives  can  be  used  as  a  mechanism  for  process,10,file02.pdf,OTHER
+improvement in Agile projects.,10,file02.pdf,OTHER
+  The tester should understand the use and purpose of continuous integration.,10,file02.pdf,OTHER
+"  The tester should know the differences between iteration and release planning, and how a tester",10,file02.pdf,OTHER
+adds value in each of these activities.,10,file02.pdf,OTHER
+Version 2014,10,file02.pdf,OTHER
+Page 10 of 12,10,file02.pdf,OTHER
+"May 31, 2014",10,file02.pdf,OTHER
+© International Software Testing Qualifications Board,10,file02.pdf,OTHER
+Overview,11,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,11,file02.pdf,OTHER
+International,11,file02.pdf,OTHER
+Software Testing,11,file02.pdf,OTHER
+Qualifications Board,11,file02.pdf,OTHER
+"Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",11,file02.pdf,OTHER
+  The  tester should  be  able  to  describe  the  differences between  testing  activities in  Agile  projects,11,file02.pdf,OTHER
+and non-Agile projects.,11,file02.pdf,OTHER
+  The  tester  should  be  able  to  describe  how  development  and  testing  activities  are  integrated  in,11,file02.pdf,OTHER
+Agile projects.,11,file02.pdf,OTHER
+  The tester should be able to describe the role of independent testing in Agile projects.,11,file02.pdf,OTHER
+  The tester should be able to describe the tools and techniques used to communicate the status of,11,file02.pdf,OTHER
+"testing in an Agile project, including test progress and product quality.",11,file02.pdf,OTHER
+  The tester should be able to describe the process of evolving tests  across multiple iterations and,11,file02.pdf,OTHER
+explain why test automation is important to manage regression risk in Agile projects.,11,file02.pdf,OTHER
+"  The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",11,file02.pdf,OTHER
+  The tester should be able to understand the role of a tester within an Agile team.,11,file02.pdf,OTHER
+"Chapter 3: Agile Testing Methods, Techniques, and Tools",11,file02.pdf,OTHER
+"  The  tester  should  be  able  to  recall  the  concepts  of  test-driven  development,  acceptance  test-",11,file02.pdf,OTHER
+"driven development, and behavior-driven development.",11,file02.pdf,OTHER
+  The tester should be able to recall the concepts of the test pyramid.,11,file02.pdf,OTHER
+  The tester should be able to summarize the testing quadrants and their relationships with testing,11,file02.pdf,OTHER
+levels and testing types.,11,file02.pdf,OTHER
+"  For a given Agile project, the tester should be able to work as a tester in a Scrum team.",11,file02.pdf,OTHER
+  The tester should be able to assess quality risks within an Agile project.,11,file02.pdf,OTHER
+  The tester should be able to  estimate testing effort based on iteration content and quality risks.,11,file02.pdf,OTHER
+  The tester should be able to interpret relevant information to support testing activities.,11,file02.pdf,OTHER
+  The tester should be able to explain to business stakeholders how to define testable acceptance,11,file02.pdf,OTHER
+criteria.,11,file02.pdf,OTHER
+"  Given  a  user  story,  the  tester  should  be  able  to  write  acceptance  test-driven  development  test",11,file02.pdf,OTHER
+cases.,11,file02.pdf,OTHER
+"  For both functional and non-functional behavior, the tester should be able to write test cases using",11,file02.pdf,OTHER
+black box test design techniques based on given user stories.,11,file02.pdf,OTHER
+  The tester should be able to perform exploratory testing to support the testing of an Agile project.,11,file02.pdf,OTHER
+  The  tester  should  be  able  to  recall  different  tools  available  to  testers  according  to  their  purpose,11,file02.pdf,OTHER
+and to activities in Agile projects.,11,file02.pdf,OTHER
+Version 2014,11,file02.pdf,OTHER
+Page 11 of 12,11,file02.pdf,OTHER
+"May 31, 2014",11,file02.pdf,OTHER
+© International Software Testing Qualifications Board,11,file02.pdf,OTHER
+Overview,12,file02.pdf,OTHER
+Foundation Level Extension – Agile Tester,12,file02.pdf,OTHER
+International,12,file02.pdf,OTHER
+Software Testing,12,file02.pdf,OTHER
+Qualifications Board,12,file02.pdf,OTHER
+4.  References,12,file02.pdf,H1
+4.1  Trademarks,12,file02.pdf,H2
+The following registered trademarks and service marks are used in this document:,12,file02.pdf,OTHER
+ISTQB®  is a registered trademark of the International Software Testing Qualifications Board,12,file02.pdf,OTHER
+4.2  Documents and Web Sites,12,file02.pdf,H2
+Identifier,12,file02.pdf,H1
+[ISTQB-Web],12,file02.pdf,OTHER
+Reference,12,file02.pdf,OTHER
+Web site of the International Software Testing Qualifications Board. Refer,12,file02.pdf,OTHER
+to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org),12,file02.pdf,OTHER
+Version 2014,12,file02.pdf,OTHER
+Page 12 of 12,12,file02.pdf,OTHER
+"May 31, 2014",12,file02.pdf,OTHER
+© International Software Testing Qualifications Board,12,file02.pdf,OTHER
+Ontario’s Libraries,1,file03.pdf,H1
+Working Together,1,file03.pdf,H1
+oposal,1,file03.pdf,TITLE
+quest foooor Prr Prr Prr Proposal,1,file03.pdf,TITLE
+oposal,1,file03.pdf,TITLE
+quest f,1,file03.pdf,TITLE
+RFP: Reeeequest f,1,file03.pdf,TITLE
+RFP: R,1,file03.pdf,TITLE
+oposal,1,file03.pdf,TITLE
+quest f,1,file03.pdf,TITLE
+RFP: R,1,file03.pdf,TITLE
+RFP: R,1,file03.pdf,TITLE
+To Present a Proposal for Developing,1,file03.pdf,TITLE
+the Business Plan for the Ontario,1,file03.pdf,TITLE
+Digital Library,1,file03.pdf,TITLE
+"March 21, 2003",1,file03.pdf,TITLE
+"The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that",1,file03.pdf,OTHER
+all Ontario citizens have access to the knowledge and learning supports needed to be life-long,1,file03.pdf,OTHER
+learners and effective contributors towards Ontario’s prosperity.,1,file03.pdf,OTHER
+Ontario’s Digital Library,2,file03.pdf,H1
+A Critical Component for Implementing Ontario’s Road Map to,2,file03.pdf,H1
+Prosperity Strategy,2,file03.pdf,H1
+Summary,2,file03.pdf,H2
+The  purpose  of  this  Request  for  Proposal (RFP)  is  to  invite  firms  and/or  consultants  to,2,file03.pdf,OTHER
+present a proposal for developing the business plan for the Ontario Digital Library (ODL).,2,file03.pdf,OTHER
+The ODL will deliver high-quality library electronic content to all Ontario residents in order to,2,file03.pdf,OTHER
+"assist people as they learn, work, and enhance their quality of life. The business plan to be",2,file03.pdf,OTHER
+developed is to document and clearly communicate:,2,file03.pdf,OTHER
+"how the ODL will be implemented, including the timeline",2,file03.pdf,OTHER
+the financial plan for the implementation,2,file03.pdf,H1
+"the financial plan for the first 2 operating years, including capital and operating costs,",2,file03.pdf,OTHER
+"revenues, etc.",2,file03.pdf,OTHER
+a financial forecast for the succeeding 2 operating years,2,file03.pdf,OTHER
+the services and products to be delivered by the ODL,2,file03.pdf,OTHER
+how the ODL will operate and be managed following the implementation,2,file03.pdf,OTHER
+"who  will  be  involved,  and  what  their  role/responsibility  will  be,  for  both  the",2,file03.pdf,OTHER
+implementation and operational stages,2,file03.pdf,OTHER
+the marketing and communications plan for the ODL,2,file03.pdf,OTHER
+This business plan must be completed and approved by the ODL Steering Committee no,2,file03.pdf,OTHER
+"later than September 30, 2003",2,file03.pdf,H3
+Timeline:,2,file03.pdf,H3
+Those  firms/consultants  intended  to  submit  a  proposal  to  this  RFP  must  indicate  their,2,file03.pdf,OTHER
+intention to do so in an e-mail to Michael Ridley (mridley@uoguelph.ca) by April 11th.,2,file03.pdf,OTHER
+"Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore",2,file03.pdf,OTHER
+"(lmoore@accessola.com), Executive Director, The Ontario Library Association, 100 Lombard",2,file03.pdf,OTHER
+"St., Suite 303, Toronto, ON  M5C 1M3.  Proposals must be received by Noon on Monday,",2,file03.pdf,OTHER
+"April 21, 2003.",2,file03.pdf,H3
+Those proposals that are short-listed will be invited to discuss their proposal during the week,2,file03.pdf,OTHER
+"of  April  28,  2003.  No  presentation  will  be  expected.  Firms  or  consultants  invited  to  an",2,file03.pdf,OTHER
+interview  will  be  expected  to  discuss  the  project  and  their  approach  with  the  selection,2,file03.pdf,OTHER
+committee.,2,file03.pdf,H3
+"Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to",2,file03.pdf,OTHER
+commence as soon as possible thereafter.,2,file03.pdf,H3
+RFP: To Develop the Ontario Digital Library Business Plan,2,file03.pdf,OTHER
+March  2003,2,file03.pdf,OTHER
+2222,2,file03.pdf,OTHER
+Please note that we reserve the right not to select any of the submitted proposals and may,3,file03.pdf,OTHER
+seek further response to these Terms of Reference.,3,file03.pdf,OTHER
+"If you require further information or have any questions, please contact Michael Ridley by e-",3,file03.pdf,OTHER
+mail  (mridley@uoguelph.ca)  only  by  3:00  p.m.  on  Friday  April  18th.  All  questions  and,3,file03.pdf,OTHER
+responses  will  be  shared  with  those  who  have  indicated  that  they  will  be  submitting  a,3,file03.pdf,OTHER
+"proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",3,file03.pdf,OTHER
+Ridley  by  April  11th  that  they  will  be  submitting  a  proposal  will  not  receive  any  further,3,file03.pdf,OTHER
+information or question responses.,3,file03.pdf,H3
+Background,3,file03.pdf,H2
+"First, some background on the ODL. For the last two years the Ontario Library Association",3,file03.pdf,OTHER
+"has  acted  as  a  catalyst,  bringing  together  the  stakeholders  needed  to  create  the  Ontario",3,file03.pdf,OTHER
+"Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university,",3,file03.pdf,OTHER
+"college, and school libraries, as well as Ontario government ministries.",3,file03.pdf,OTHER
+Libraries that serve very different clientele recognize that by working together they can create,3,file03.pdf,OTHER
+"seamless  access  to  quality  electronic  library  services.  Through  the  ODL,  students  will  be",3,file03.pdf,OTHER
+"able  to explore  a topic  at  school,  use  the  same child-safe resources  after school  (either  at",3,file03.pdf,OTHER
+"home  or  at  a  public  library),  enter  college  or  university  with  a  knowledge  of  how  to  use",3,file03.pdf,OTHER
+"electronic resources that are still available and then, after graduation, continue to use these",3,file03.pdf,OTHER
+skills and resources at work or at home.,3,file03.pdf,OTHER
+We are moving into a period of convergence. With convergence we no longer have to license,3,file03.pdf,OTHER
+commercial products as individual libraries or institutions. We can work together to spend our,3,file03.pdf,OTHER
+money wisely. The provincial government has made this possible by working hard to provide,3,file03.pdf,OTHER
+"all  Ontarians  with  a  stable,  high-speed  communications  infrastructure. While  there  is  still  a",3,file03.pdf,OTHER
+"great deal of work needed to improve this infrastructure, libraries are beginning to plan how",3,file03.pdf,OTHER
+best to exploit communications technology. We can reduce barriers to access and create the,3,file03.pdf,OTHER
+content infrastructure needed to support a knowledge society.,3,file03.pdf,OTHER
+"The concept of an ODL is a key element in The Roadmap to Prosperity, a strategic plan to",3,file03.pdf,OTHER
+envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment,3,file03.pdf,OTHER
+Board. The OJIB strategic plan recommends an electronic library to “connect students to new,3,file03.pdf,OTHER
+"workplaces, new sources of information and applied learning opportunities”. The ODL will do",3,file03.pdf,OTHER
+"that and much more.  The ODL will connect students to electronic information, and will also",3,file03.pdf,OTHER
+leverage this investment to help connect all citizens to the electronic information they need as,3,file03.pdf,OTHER
+"they make decisions, solve problems and enhance their quality of life.",3,file03.pdf,OTHER
+Libraries have long been a key delivery point for public services. The ODL will allow that,3,file03.pdf,OTHER
+"delivery point to move closer to citizens, into the smallest of libraries and even into living",3,file03.pdf,OTHER
+rooms.,3,file03.pdf,H3
+"Libraries have a long tradition of using a practical, consultative approach to solving problems,",3,file03.pdf,OTHER
+and of learning from others.  The ODL is a very practical solution to various problems.,3,file03.pdf,OTHER
+Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is,3,file03.pdf,OTHER
+leading edge for Ontario but several jurisdictions have forged the path with collaborative,3,file03.pdf,OTHER
+"digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",3,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,3,file03.pdf,OTHER
+March  2003,3,file03.pdf,OTHER
+3333,3,file03.pdf,OTHER
+was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively,4,file03.pdf,OTHER
+with its members to promote universal access to materials and resources in more than 250,4,file03.pdf,OTHER
+"public, post-secondary, special, government and regional libraries.  Unlike ODL, TAL does",4,file03.pdf,OTHER
+"not include elementary or secondary schools. However, the timeline and funding we are",4,file03.pdf,OTHER
+proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several,4,file03.pdf,OTHER
+years.  TAL’s implementation plan was supported by 8 million dollars in provincially shared,4,file03.pdf,OTHER
+"funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",4,file03.pdf,OTHER
+"Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",4,file03.pdf,OTHER
+schools as partners; it has 250 member libraries. ODL envisions universal access for all,4,file03.pdf,OTHER
+"10,000,000 Ontarians, with more than 5000 Ontario libraries as partners.  Although ODL can",4,file03.pdf,OTHER
+"learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",4,file03.pdf,OTHER
+TAL.,4,file03.pdf,H3
+The ODL will be a partnership-based organization providing seamless electronic information,4,file03.pdf,OTHER
+services and resources to the citizens of Ontario. It will use local libraries as the entry point for,4,file03.pdf,OTHER
+common resources  The ODL will recognize the unique responsibilities and needs of public,4,file03.pdf,OTHER
+"libraries,  school  libraries,  college  and  university  libraries  and  special  libraries.  The  ODL",4,file03.pdf,OTHER
+"envisions a digital network of information resources, allowing members to collaborate when",4,file03.pdf,OTHER
+there is mutual benefit and to support the common mandates of local libraries.,4,file03.pdf,OTHER
+The principles which will define and guide the ODL are:,4,file03.pdf,OTHER
+Equitable access for all Ontarians:,4,file03.pdf,H3
+"We  will  bring  consistent,  high-quality  electronic  resources  and  services  to  10  million",4,file03.pdf,OTHER
+Ontario citizens,4,file03.pdf,H3
+We  will  eliminate  barriers  to  the  access  to  information  and  create  more  consistent,4,file03.pdf,OTHER
+services for library clients.,4,file03.pdf,H3
+Shared decision-making and accountability:,4,file03.pdf,H3
+We  will  facilitate  consensus  among  members  regarding  ODL’s  portfolio  of  electronic,4,file03.pdf,OTHER
+licenses and services,4,file03.pdf,OTHER
+We  will  balance  the  interests  and  realities  of  small  and  large  as  well  as  rich  and  poor,4,file03.pdf,OTHER
+communities and institutions.,4,file03.pdf,OTHER
+Shared governance structure:,4,file03.pdf,H3
+We will share decision-making in order to enable the people we serve.,4,file03.pdf,OTHER
+We will work based on an underlying assumption of trust and synergy.,4,file03.pdf,OTHER
+Shared funding:,4,file03.pdf,H3
+"We will leverage provincial, institutional, and local dollars to realize economies of scale",4,file03.pdf,OTHER
+and put Ontario dollars to work for everyone.,4,file03.pdf,OTHER
+We will be willing to pool talents and dollars in order to provide common services that are,4,file03.pdf,OTHER
+truly greater than those that can be maintained by individual institutions.,4,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,4,file03.pdf,OTHER
+March  2003,4,file03.pdf,OTHER
+4444,4,file03.pdf,OTHER
+Local points of entry:,5,file03.pdf,H3
+"We will provide the licenses, infrastructure, services and support that enable local",5,file03.pdf,OTHER
+"libraries to provide exceptional services to their clientele. ODL will focus on support,",5,file03.pdf,OTHER
+"providing the underpinning, not overshadowing.",5,file03.pdf,H2
+Services envisioned for the ODL’s include:,5,file03.pdf,H3
+Access:,5,file03.pdf,H3
+"to the “deep” web (i.e. Commercial, purchased electronic services)",5,file03.pdf,OTHER
+to credible web sites and electronic resources,5,file03.pdf,H2
+to digital government information,5,file03.pdf,H2
+to local digital collections,5,file03.pdf,H2
+Guidance and Advice:,5,file03.pdf,H3
+to support e-learning,5,file03.pdf,H3
+"to support citizens, in real-time, as they try to use electronic resources",5,file03.pdf,OTHER
+to assist citizens as they use web-links,5,file03.pdf,H2
+Training:,5,file03.pdf,H3
+for library workers,5,file03.pdf,H3
+for the general public,5,file03.pdf,H3
+Provincial Purchasing & Licensing:,5,file03.pdf,H3
+of electronic content on a consortia basis for all member libraries,5,file03.pdf,OTHER
+Technological Support:,5,file03.pdf,H3
+of common standards for the preservation and archiving local digital content,5,file03.pdf,OTHER
+of a common interface to ODL resources and services that can be imbedded in local,5,file03.pdf,OTHER
+library web sites,5,file03.pdf,H3
+What could the ODL really mean?,5,file03.pdf,H3
+For each Ontario citizen it could mean:,5,file03.pdf,H4
+One local point of entry to access seamless electronic library services and,5,file03.pdf,OTHER
+"resources for their personal, educational and professional needs;",5,file03.pdf,OTHER
+"Access to credible, high-quality, user-friendly electronic services through their",5,file03.pdf,OTHER
+"community, school, or academic library;",5,file03.pdf,OTHER
+Confidence that the electronic services and sources they – and their children,5,file03.pdf,OTHER
+"– are using are safe, valid, and bringing them both global and local",5,file03.pdf,OTHER
+perspectives;,5,file03.pdf,OTHER
+Electronic  information  and  tools  that  enhance  job  skills  and  the  learning,5,file03.pdf,OTHER
+experience,5,file03.pdf,OTHER
+For each Ontario student it could mean:,5,file03.pdf,H4
+"One local point of entry to quality, curriculum- based electronic information",5,file03.pdf,OTHER
+resources and services,5,file03.pdf,OTHER
+"Connection to their individual educational environment, whether at the",5,file03.pdf,OTHER
+"elementary, secondary or post-secondary levels",5,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,5,file03.pdf,OTHER
+March  2003,5,file03.pdf,OTHER
+5555,5,file03.pdf,OTHER
+"Confidence that the services and resources people are using are credible,",6,file03.pdf,OTHER
+available when they need them and adaptable to different learning styles,6,file03.pdf,OTHER
+For each Ontario library it could mean:,6,file03.pdf,H4
+One point of entry for themselves and their clientele to quality electronic,6,file03.pdf,OTHER
+"resources and services that support and enhance their collections, programs",6,file03.pdf,OTHER
+and services,6,file03.pdf,H1
+"The opportunity to show case their local community, collections, services, and",6,file03.pdf,OTHER
+expertise,6,file03.pdf,OTHER
+"The opportunity to gain from the provincial, collaborative partnership in order",6,file03.pdf,OTHER
+to provide a seamless gateway to digital resources and services,6,file03.pdf,OTHER
+For the Ontario government it could mean:,6,file03.pdf,H4
+"A point of entry to information services and resources for all Ontario citizens,",6,file03.pdf,OTHER
+connecting to portal initiatives.,6,file03.pdf,OTHER
+Support of the Ontario E-Learning strategy through a collaborative digital,6,file03.pdf,OTHER
+library initiative that positions Ontario on the global e-learning scene,6,file03.pdf,OTHER
+Improved access and flexibility for all students at all ages and stages,6,file03.pdf,OTHER
+(supports Ontario’s lifelong learning strategy),6,file03.pdf,H1
+The opportunity to address emerging job skills shortages and facilitate school,6,file03.pdf,OTHER
+to work and job to job transitions with the necessary information and,6,file03.pdf,OTHER
+knowledge supports and tools,6,file03.pdf,H1
+ODL will be an incorporated non-profit organization governed by a Board of Directors elected,6,file03.pdf,OTHER
+by  a  voting  membership.  The  Board  will  include  representatives  from  all  stakeholders. We,6,file03.pdf,OTHER
+envision a governance model similar to that prepared for the province’s ORION network.,6,file03.pdf,OTHER
+"More information regarding the envisioned phasing, funding  and resources required for the",6,file03.pdf,OTHER
+ODL can be found in the appendixes.,6,file03.pdf,H3
+The Business Plan to be Developed,6,file03.pdf,H2
+The business plan which needs to be developed for the ODL must be a formal business plan,6,file03.pdf,OTHER
+"that documents and clearly communicates the ODL’s services, funding and governance",6,file03.pdf,OTHER
+"structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",6,file03.pdf,OTHER
+"2007.  The planning process must also secure the full commitment of all stakeholders, as",6,file03.pdf,OTHER
+represented on the Steering Committee.,6,file03.pdf,H3
+"Specifically, the business plan must include:",6,file03.pdf,H3
+"how the ODL will be implemented, including the timeline",6,file03.pdf,OTHER
+the financial plan for the implementation,6,file03.pdf,OTHER
+"the financial plan for the first 2 operating years, including capital and operating costs,",6,file03.pdf,OTHER
+"revenues, etc.",6,file03.pdf,OTHER
+a financial forecast for the succeeding 2 operating years,6,file03.pdf,OTHER
+the services and products to be delivered by the ODL,6,file03.pdf,OTHER
+how the ODL will operate and be managed following the implementation,6,file03.pdf,OTHER
+"who  will  be  involved,  and  what  their  role/responsibility  will  be,  for  both  the",6,file03.pdf,OTHER
+implementation and operational stages,6,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,6,file03.pdf,OTHER
+March  2003,6,file03.pdf,OTHER
+6666,6,file03.pdf,OTHER
+the marketing and communications plan for the ODL,7,file03.pdf,OTHER
+the commitment of all stakeholders to their responsibilities,7,file03.pdf,OTHER
+The process of developing this business plan must be extremely consultative to ensure that,7,file03.pdf,OTHER
+all stakeholders are engaged in creating a synergistic ODL organization. The proposal must,7,file03.pdf,OTHER
+indicate how this consultative process will be approached.,7,file03.pdf,OTHER
+"The business plan for the ODL must address significant issues. There are, for example,",7,file03.pdf,OTHER
+enormous differences in the financial resources available to libraries mandated to provide,7,file03.pdf,OTHER
+"similar services. Some post-secondary and public libraries, particularly those in large urban",7,file03.pdf,OTHER
+"areas, have the facilities, funding and technological infrastructure necessary to service their",7,file03.pdf,OTHER
+"patrons with electronic services and resources.  Many others, particularly in rural regions, do",7,file03.pdf,OTHER
+not.  The proposal must indicate how these issues will be approached.,7,file03.pdf,OTHER
+Milestones,7,file03.pdf,H3
+1)  A preliminary report will be issued during June 2003.,7,file03.pdf,OTHER
+"2)  It  is  expected  that  an  Interim  Report,  suitable  for  distribution  to  the  broader  library",7,file03.pdf,OTHER
+"community will be available by August 1, 2003 and that there will be an opportunity",7,file03.pdf,OTHER
+for responses to be evaluated.,7,file03.pdf,H3
+3)  The business plan must be completed and approved by the ODL Steering Committee,7,file03.pdf,OTHER
+"no later than September 30, 2003.",7,file03.pdf,H3
+Approach and Specific Proposal Requirements,7,file03.pdf,H2
+The firm/consultant (or proposed team of consultants) will be expected to work closely with,7,file03.pdf,OTHER
+the  ODL  Steering  Committee.  Terms  of  reference  for  the  Committee  are  in  the  appendix.,7,file03.pdf,OTHER
+"Given the consultative nature of this business planning process, the firm/consultant will also",7,file03.pdf,OTHER
+be expected to travel and communicate regularly with various stakeholders as well as  with,7,file03.pdf,OTHER
+electronic resource publishers/vendors.,7,file03.pdf,H3
+The proposal should include the following information:,7,file03.pdf,OTHER
+a) name of the firm/consultant,7,file03.pdf,OTHER
+"b) names of those individuals who will be engaged in this project, their specific",7,file03.pdf,OTHER
+responsibilities on this project and relevant experience/qualifications,7,file03.pdf,OTHER
+c) description of similar engagements that highlight the firm’s experience in business,7,file03.pdf,OTHER
+planning and building stakeholder commitment,7,file03.pdf,H2
+d) references with details of work completed for these references,7,file03.pdf,OTHER
+"e) description of the approach that will be used for completing the business plan,",7,file03.pdf,OTHER
+including a timeline,7,file03.pdf,OTHER
+"f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",7,file03.pdf,OTHER
+structure,7,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,7,file03.pdf,OTHER
+March  2003,7,file03.pdf,OTHER
+7777,7,file03.pdf,OTHER
+Evaluation and Awarding of Contract,8,file03.pdf,H2
+The contract will be awarded to the bidder whose submission offers the best value; the contract will,8,file03.pdf,OTHER
+not necessarily be awarded to the lowest bidder.  We reserve the right not to award the contract to,8,file03.pdf,OTHER
+any of the bidders responding to this RFP and we may seek further response.,8,file03.pdf,OTHER
+"Specifically, proposals will be evaluated proposals according to the following criteria:",8,file03.pdf,OTHER
+Quality of the proposal /approach outlined for undertaking the business planning process,8,file03.pdf,OTHER
+Demonstrated experience,8,file03.pdf,OTHER
+"Cost, including expenses",8,file03.pdf,OTHER
+Timeline and projected completion date,8,file03.pdf,OTHER
+Other relevant factors as determined by the ODL Steering Committee,8,file03.pdf,OTHER
+Questions regarding this RFP should be directed by e-mail only to Michael Ridley,8,file03.pdf,OTHER
+(mridley@uoguelph.ca).,8,file03.pdf,H3
+Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering,8,file03.pdf,OTHER
+Committee.,8,file03.pdf,H3
+RFP: To Develop the Ontario Digital Library Business Plan,8,file03.pdf,OTHER
+March  2003,8,file03.pdf,OTHER
+8888,8,file03.pdf,OTHER
+Appendix A:  ODL Envisioned Phases & Funding,9,file03.pdf,H2
+Phase I:  Business Planning,9,file03.pdf,H3
+Timeline: March 2003 – September 2003,9,file03.pdf,H3
+"Funding Requested:  ~$100,000 jointly funded by stakeholder groups and the provincial government.",9,file03.pdf,OTHER
+Result: The ODL business plan,9,file03.pdf,H3
+"The first phase will be to build the ODL business plan. This plan will clearly define the ODL’s services,",9,file03.pdf,OTHER
+"funding and governance structures, as well as implementation plans for 2003-2005. It will also secure",9,file03.pdf,OTHER
+the full commitment of all stakeholders and scope the operational plan for ODL for 2006 and beyond.,9,file03.pdf,OTHER
+"Given the number and diversity of stakeholders involved, the business planning process must be a fully",9,file03.pdf,OTHER
+consultative approach.  To ensure that the planning results in a workable plan with the full commitment,9,file03.pdf,OTHER
+"of all stakeholders it must have competent, dedicated staffing and monies for the travel and",9,file03.pdf,OTHER
+communication components so critical in a consultative process.,9,file03.pdf,OTHER
+Phase II: Implementing and Transitioning,9,file03.pdf,H3
+Timeline: April 2004 – December 2006,9,file03.pdf,H3
+Funding Requested:  Funding from other states and provinces suggest that the ODL could receive,9,file03.pdf,OTHER
+"funding of up to  $50 Million (over 3 years). Funding to be provided partnership of government, library",9,file03.pdf,OTHER
+stakeholders and other interested parties.,9,file03.pdf,H3
+Result: The ODL is implemented and validated,9,file03.pdf,OTHER
+The second phase will be to implement the ODL based on the business plan. This phase recognizes,9,file03.pdf,OTHER
+that for ODL to be optimally successful libraries must transition to a new way of doing business and,9,file03.pdf,OTHER
+providing services. The transition must occur while libraries continue to provide existing services and,9,file03.pdf,OTHER
+"respond to current challenges. This implementation phase will funded by a partnership of government,",9,file03.pdf,OTHER
+library stakeholders and other interested parties as a means to quickly jumpstart the ODL.,9,file03.pdf,OTHER
+The seed money requested will allow libraries to realign their budgets and services as the infrastructure,9,file03.pdf,OTHER
+"and content of the ODL is created and secured. Some of the funding will be new money, although there",9,file03.pdf,OTHER
+is  every  indication  that  existing  budgets  and  methods  of  operating  may  be  modified  as  a  result  of,9,file03.pdf,OTHER
+"recommendations. During this phase the polices, procedures, governance structures and accountability",9,file03.pdf,OTHER
+"mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded.",9,file03.pdf,OTHER
+"Information resources will be identified, contracts for these resources will be negotiated and resources",9,file03.pdf,OTHER
+will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is,9,file03.pdf,OTHER
+achieving its objectives and is accountable to its key communities.,9,file03.pdf,OTHER
+Phase III: Operating and Growing the ODL,9,file03.pdf,H3
+Timeline: January 2007 -,9,file03.pdf,OTHER
+Funding: $50 Million annually ($35 Million requested from government),9,file03.pdf,OTHER
+Result: The ODL is fully operational and sustainable,9,file03.pdf,OTHER
+In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits,9,file03.pdf,OTHER
+of the initiative and libraries will consolidate support around the ODL to grow resources and extend,9,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,9,file03.pdf,OTHER
+March  2003,9,file03.pdf,OTHER
+9999,9,file03.pdf,OTHER
+capabilities. The challenge is to secure resources sufficient to both sustain the original investments and,10,file03.pdf,OTHER
+to enhance the ODL.,10,file03.pdf,OTHER
+The ongoing funding of the ODL will be based on a partnership model involving all the key participants,10,file03.pdf,OTHER
+"(i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are",10,file03.pdf,OTHER
+expected to make financial contributions to the ODL. It is important in achieving the full impact of the,10,file03.pdf,OTHER
+"ODL on Ontario’s economy, society and learning support that all library sectors are participants",10,file03.pdf,OTHER
+"(university, colleges, public libraries and schools).",10,file03.pdf,OTHER
+"The proposed funding model requires a continuing government investment, but also recognizes that as",10,file03.pdf,OTHER
+the ODL matures a growing share of ODL funding will come from libraries and non-governmental,10,file03.pdf,OTHER
+sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to,10,file03.pdf,OTHER
+enable ongoing funding contributions to ODL. During the same period ODL must build the proposed,10,file03.pdf,OTHER
+endowment and secure public and private sector gifts and/or in-kind contributions. The following chart,10,file03.pdf,OTHER
+outlines the model. This model is based on these assumptions:,10,file03.pdf,OTHER
+1.,10,file03.pdf,OTHER
+that ODL expenditures will increase by 50% over a 10 year period,10,file03.pdf,OTHER
+2.,10,file03.pdf,OTHER
+that government funding will decrease from 70% to 45% during that 10 year period,10,file03.pdf,OTHER
+3.,10,file03.pdf,OTHER
+"that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55%",10,file03.pdf,OTHER
+during the same period,10,file03.pdf,OTHER
+OVERVIEW OF ODL FUNDING MODEL,10,file03.pdf,OTHER
+Funding Source,10,file03.pdf,H2
+Government,10,file03.pdf,OTHER
+Libraries,10,file03.pdf,OTHER
+Endowment,10,file03.pdf,OTHER
+Gifts/In-Kind,10,file03.pdf,OTHER
+TOTAL  ANNUAL,10,file03.pdf,OTHER
+2007,10,file03.pdf,OTHER
+$35M (70%),10,file03.pdf,OTHER
+$10M (20%),10,file03.pdf,OTHER
+$4.5M (9%),10,file03.pdf,OTHER
+$0.5M (1%),10,file03.pdf,OTHER
+$50M,10,file03.pdf,OTHER
+2017,10,file03.pdf,OTHER
+$33.75M (45%),10,file03.pdf,OTHER
+$22.5M (30%),10,file03.pdf,OTHER
+$15M (20%),10,file03.pdf,OTHER
+$3.75M (5%),10,file03.pdf,OTHER
+$75M,10,file03.pdf,OTHER
+"While the private sector will be invited to participate in the ODL through the endowment, gifts and in-",10,file03.pdf,OTHER
+"kind contributions, the ODL will also explore compatible commercial services which leverage the reach",10,file03.pdf,OTHER
+of the ODL and help to offset operating costs.,10,file03.pdf,OTHER
+A $50M budget leverages the consortium buying power of the province’s libraries to secure the best,10,file03.pdf,OTHER
+"prices for information resources, the widest accessibility and the most favourable contracts. A budget of",10,file03.pdf,OTHER
+this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial,10,file03.pdf,OTHER
+amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview,10,file03.pdf,OTHER
+of the nature of the ODL digital collection is appended). The proposed ODL expenditures in 2006,10,file03.pdf,OTHER
+represent an investment of $5.00 per citizen.,10,file03.pdf,OTHER
+It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a,10,file03.pdf,OTHER
+double benefit: it supports a province-wide library of high quality information resources and it,10,file03.pdf,OTHER
+strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources,10,file03.pdf,OTHER
+that enhance local services. This multiplier means that for every dollar invested in ODL the return,10,file03.pdf,OTHER
+on investment is worth $2 of value for Ontario.,10,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,10,file03.pdf,OTHER
+March  2003,10,file03.pdf,OTHER
+10101010,10,file03.pdf,OTHER
+Appendix B:,11,file03.pdf,H2
+ODL Steering Committee Terms of Reference,11,file03.pdf,H2
+1. Preamble,11,file03.pdf,H3
+Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed,11,file03.pdf,OTHER
+and supported by its diverse stakeholder communities (see: www.odl.on.ca).  The business,11,file03.pdf,OTHER
+"development planning and commitment process will be overseen by a Steering Committee, who are",11,file03.pdf,OTHER
+accountable to potential ODL funders including  the Province of Ontario.,11,file03.pdf,OTHER
+2. Terms of Reference,11,file03.pdf,H3
+"In broad terms, the ODL Business Plan Steering Committee is responsible for development of the",11,file03.pdf,OTHER
+"business plan, securing sector support, and management of the planners and process.  Specific",11,file03.pdf,OTHER
+responsibilities include:,11,file03.pdf,OTHER
+"2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including",11,file03.pdf,OTHER
+"governance, management, funding model and structure, organizational structure, marketing,",11,file03.pdf,OTHER
+"staffing, and evaluation;",11,file03.pdf,OTHER
+"2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",11,file03.pdf,OTHER
+"communication, and to ensure meaningful opportunities for stakeholder input into decision-",11,file03.pdf,OTHER
+making;,11,file03.pdf,OTHER
+2.3 recruiting and managing the business planner(s);,11,file03.pdf,OTHER
+"2.4 defining terms of reference and resource parameters for business planner(s), and authorizing",11,file03.pdf,OTHER
+expenditures;,11,file03.pdf,OTHER
+2.5 serving as a focus group for business planner(s) to test ideas;,11,file03.pdf,OTHER
+2.6 providing signoff for business planner(s) at key decision points of business plan development;,11,file03.pdf,OTHER
+"2.7 securing commitment from library, government, and institutional stakeholders for implementation",11,file03.pdf,OTHER
+of the business plan;,11,file03.pdf,OTHER
+2.8 presenting the business plan to funders,11,file03.pdf,OTHER
+2.9 undertaking  advocacy efforts to promote the ODL to the broader communities including library,11,file03.pdf,OTHER
+and education communities.,11,file03.pdf,OTHER
+3. Membership,11,file03.pdf,H3
+"Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two",11,file03.pdf,OTHER
+representatives to the steering committee,11,file03.pdf,OTHER
+3.1 Schools:,11,file03.pdf,OTHER
+- Ontario School Library Association (OSLA) and The Association of Library Consultants and,11,file03.pdf,OTHER
+Coordinators of Ontario (TALCO)  (Executive Council of OSLA to name representative in,11,file03.pdf,OTHER
+consultation with TALCO),11,file03.pdf,OTHER
+3.2 Universities:,11,file03.pdf,OTHER
+- Ontario Council of University Libraries (OCUL) (OCUL to name),11,file03.pdf,OTHER
+3.3 Colleges:,11,file03.pdf,OTHER
+"- Bibliocentre, and  Heads of Libraries and Learning Resources (UAG and HLLR to name)",11,file03.pdf,OTHER
+3.4 Public libraries:,11,file03.pdf,OTHER
+"- Administrators of Medium-sized Public Libraries of Ontario (AMPLO), Administrators of Rural",11,file03.pdf,OTHER
+"Urban Public Libraries of Ontario (ARUPLO), Administrators of Small Public Libraries of",11,file03.pdf,OTHER
+Ontario (ASPLO) and Chief Executives of Large-sized Public Libraries of Ontario (CELPLO),11,file03.pdf,OTHER
+"(Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name)",11,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,11,file03.pdf,OTHER
+March  2003,11,file03.pdf,OTHER
+11111111,11,file03.pdf,OTHER
+3.5 Ontario Library Association representative (ex-officio)  (OLA to appoint one representative),12,file03.pdf,OTHER
+- Role of the OLA ex-officio member:  To act as a liaison between the steering committee and,12,file03.pdf,OTHER
+"the OLA Board, and to assist the chair with the administrative responsibilities connected with",12,file03.pdf,OTHER
+"the preparation of the business plan, finance, and communications.",12,file03.pdf,OTHER
+"3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",12,file03.pdf,OTHER
+"discretion, call on invited experts to advise on issues as required.",12,file03.pdf,OTHER
+4.  Appointment Criteria and Process,12,file03.pdf,H3
+4.1  Groups and organizations named in Section 3 above are responsible for appointing up to two,12,file03.pdf,OTHER
+representatives to the Steering Committee.,12,file03.pdf,OTHER
+4.2,12,file03.pdf,OTHER
+Desired characteristics for steering committee appointees include:,12,file03.pdf,OTHER
+•  Strategic thinkers;,12,file03.pdf,OTHER
+•  Committed to the concept of multi-sector partnerships;,12,file03.pdf,OTHER
+•  Knowledgeable about digital libraries and resources;,12,file03.pdf,OTHER
+•  Knowledgeable about government structures;,12,file03.pdf,OTHER
+•  Respected by their communities; influential;,12,file03.pdf,OTHER
+•  Able to take a consultative approach;,12,file03.pdf,OTHER
+•  Able to devote time to Steering Committee business: approximately one day per month for,12,file03.pdf,OTHER
+meetings plus 2-3 working days per month on related activities.,12,file03.pdf,OTHER
+5.  Term,12,file03.pdf,H3
+Expected term on the Steering Committee is the time required to complete development of the,12,file03.pdf,OTHER
+business plan plus two months.  This process is expected to take approximately 6 months.,12,file03.pdf,OTHER
+6.  Chair,12,file03.pdf,H3
+Chair will be appointed by the Board of the Ontario Library Association.,12,file03.pdf,OTHER
+Role of the Chair:,12,file03.pdf,OTHER
+In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent,12,file03.pdf,OTHER
+"working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",12,file03.pdf,OTHER
+plan.  The chair must be able to devote 5-8 days per month on activities related to the preparation of,12,file03.pdf,OTHER
+"the business plan, and communications to stakeholders, funders, and government.",12,file03.pdf,OTHER
+7.  Meetings,12,file03.pdf,H3
+It is expected that in person meetings are held once per month and the majority of business will be,12,file03.pdf,OTHER
+"conducted by e-mail, and teleconference.",12,file03.pdf,OTHER
+8.  Lines of Accountability and Communication,12,file03.pdf,H3
+"8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",12,file03.pdf,OTHER
+funders.,12,file03.pdf,OTHER
+8.2 The role of the Ontario Library Association is to assume responsibility for  funds contributed by the,12,file03.pdf,OTHER
+"ODL funders to finance the business plan, to hold the funds in a separate account, and",12,file03.pdf,OTHER
+disperse them for purposes as  directed by the Steering Committee.  OLA will provide,12,file03.pdf,OTHER
+financial reports to the Steering Committee as requested and shall comply with all,12,file03.pdf,OTHER
+government reporting regulations for funds received.,12,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,12,file03.pdf,OTHER
+March  2003,12,file03.pdf,OTHER
+12121212,12,file03.pdf,OTHER
+8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for,13,file03.pdf,OTHER
+ongoing communications and consultation on issues and progress.  The Steering committee,13,file03.pdf,OTHER
+is responsible for strong liaison with government particularly the Chief Information Officer,13,file03.pdf,OTHER
+"Community Services Cluster, ADM’s and Deputy Ministers.",13,file03.pdf,OTHER
+9.  Financial and Administrative Policies,13,file03.pdf,H3
+9.1 Service on the Steering Committee is non-remunerative,13,file03.pdf,OTHER
+9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the,13,file03.pdf,OTHER
+policies of the Ontario Library Association,13,file03.pdf,OTHER
+9.3 Conflict of Interest:,13,file03.pdf,OTHER
+The ODL Steering Committee will function according to standard conflict of interest guidelines,13,file03.pdf,OTHER
+"ensuring that members,  their immediate family members, or their places of employment, will",13,file03.pdf,OTHER
+not benefit financially from the decisions  the Steering Committee might make.  As a first,13,file03.pdf,OTHER
+"order of business, the Steering Committee will be expected to adopt a conflict of interest policy",13,file03.pdf,OTHER
+statement and procedural guidelines that will govern its work.,13,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,13,file03.pdf,OTHER
+March  2003,13,file03.pdf,OTHER
+13131313,13,file03.pdf,OTHER
+Appendix C:,14,file03.pdf,H2
+ODL’s Envisioned Electronic Resources,14,file03.pdf,H2
+The purpose of the ODL is to provide equal access to information for all Ontario citizens through,14,file03.pdf,OTHER
+collaboration and resource sharing. ODL will be a portal - capable of customization as,14,file03.pdf,OTHER
+"a home page for local libraries - to organized, comprehensive, authoritative and validated",14,file03.pdf,OTHER
+e-information resources to meet the needs of all Ontario citizens at all stages and in all aspects,14,file03.pdf,OTHER
+"of their education, life and work. Some examples:",14,file03.pdf,OTHER
+1. Reference Resources,14,file03.pdf,OTHER
+"- directories: companies, associations, organizations, governments, educational institutions,",14,file03.pdf,OTHER
+etc. etc.,14,file03.pdf,OTHER
+"- almanacs, country information",14,file03.pdf,OTHER
+"- dictionaries, thesauri, encyclopedias",14,file03.pdf,OTHER
+-consumer information,14,file03.pdf,OTHER
+"- phone books,",14,file03.pdf,OTHER
+"- travel guides,  entertainment guides",14,file03.pdf,OTHER
+- weather information,14,file03.pdf,OTHER
+- media/newspapers,14,file03.pdf,OTHER
+"- leisure time, recreational activity guides",14,file03.pdf,OTHER
+- indexing and abstracting services,14,file03.pdf,OTHER
+"- currency converters,",14,file03.pdf,OTHER
+- virtual reference services,14,file03.pdf,OTHER
+-vocational/career information,14,file03.pdf,OTHER
+-internet search engines,14,file03.pdf,OTHER
+-current awareness services,14,file03.pdf,OTHER
+2. Subject Guides,14,file03.pdf,OTHER
+-arts and humanities,14,file03.pdf,OTHER
+- business and economics,14,file03.pdf,OTHER
+- education,14,file03.pdf,OTHER
+-recreation and sports,14,file03.pdf,OTHER
+"-entertainment - games, activities for kids",14,file03.pdf,OTHER
+-health information,14,file03.pdf,OTHER
+-science and technology,14,file03.pdf,OTHER
+-social sciences,14,file03.pdf,OTHER
+-society and culture,14,file03.pdf,OTHER
+3. Educational tool-kits,14,file03.pdf,OTHER
+"-guides to information gathering methodologies, information literacy",14,file03.pdf,OTHER
+-study guides,14,file03.pdf,OTHER
+-study skill development,14,file03.pdf,OTHER
+-web-based curricula,14,file03.pdf,OTHER
+-internet search guides,14,file03.pdf,OTHER
+"4. Journals, books, maps, music etc.",14,file03.pdf,OTHER
+RFP: To Develop the Ontario Digital Library Business Plan,14,file03.pdf,OTHER
+March  2003,14,file03.pdf,OTHER
+14141414,14,file03.pdf,OTHER
+Parsippany -Troy Hills STEM Pathways,1,file04.pdf,TITLE
+Mission Statement:  To provide PTHSD high school students with the opportunity to,1,file04.pdf,OTHER
+"concentrate their studies, beyond those required in high school, in the areas of science,",1,file04.pdf,OTHER
+"technology, engineering, and mathematics, and expose students to relevant real world",1,file04.pdf,OTHER
+"experiences through project work, conferences and presentations to enhance their high school",1,file04.pdf,OTHER
+experience.,1,file04.pdf,H2
+Goals:,1,file04.pdf,H2
+"• Inspire keen interest in mathematics, science, engineering, and",1,file04.pdf,OTHER
+"technology, develop strong scholarship in the subject and",1,file04.pdf,OTHER
+promote the enjoyment of these studies in high school.,1,file04.pdf,OTHER
+• Expose students to potential career opportunities in the field.,1,file04.pdf,OTHER
+• Encourage students to pursue higher education and major in,1,file04.pdf,OTHER
+STEM careers.,1,file04.pdf,OTHER
+• Promote interactions with STEM professionals to learn about,1,file04.pdf,OTHER
+future opportunities.,1,file04.pdf,OTHER
+• Support field experiences connected to the world outside of,1,file04.pdf,OTHER
+the school building.,1,file04.pdf,OTHER
+"• Signal to employers, universities, training programs, and",1,file04.pdf,OTHER
+military that a student has completed a comprehensive course,1,file04.pdf,OTHER
+of study in a specialized area.,1,file04.pdf,OTHER
+"• Cultivate transferable work habits such as perseverance, goal",1,file04.pdf,OTHER
+"setting, and self-direction.",1,file04.pdf,OTHER
+PATHWAY OPTIONS,1,file04.pdf,H1
+REGULAR PATHWAY,1,file04.pdf,H1
+4 credits of Math,1,file04.pdf,OTHER
+4 credits of Science,1,file04.pdf,OTHER
+4 credits of STEM-designated electives,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+● Maintain an overall 2.85 GPA,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+Participate in a minimum of 3 STEM,1,file04.pdf,OTHER
+presentations/conferences each year,1,file04.pdf,OTHER
+with a required minimum total of 12,1,file04.pdf,OTHER
+presentations/conferences throughout,1,file04.pdf,OTHER
+the 4 years. *,1,file04.pdf,OTHER
+Join and actively participate in a,1,file04.pdf,OTHER
+STEM-related extracurricular activity or,1,file04.pdf,OTHER
+club every year of attendance. -,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+DISTINCTION PATHWAY,1,file04.pdf,OTHER
+4 credits of Math - At least one math,1,file04.pdf,OTHER
+course should be an AP Math class.,1,file04.pdf,OTHER
+4 credits of Science- At least one,1,file04.pdf,OTHER
+science course should be an AP,1,file04.pdf,OTHER
+Science class.,1,file04.pdf,OTHER
+4 credits of STEM-designated electives,1,file04.pdf,OTHER
+- One must be a Computer,1,file04.pdf,OTHER
+Science/Technology Class,1,file04.pdf,OTHER
+● Maintain an overall 3.5 GPA,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+Participate in a minimum of 3 STEM,1,file04.pdf,OTHER
+presentations/conferences a year with a,1,file04.pdf,OTHER
+required minimum total of 12,1,file04.pdf,OTHER
+presentations/conferences throughout,1,file04.pdf,OTHER
+the 4 years.,1,file04.pdf,OTHER
+Join and actively participate in a,1,file04.pdf,OTHER
+STEM-related extracurricular activity or,1,file04.pdf,OTHER
+club every year of attendance.,1,file04.pdf,OTHER
+Either participate in an internship or,1,file04.pdf,OTHER
+design and implement a community,1,file04.pdf,OTHER
+impact project.,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+●,1,file04.pdf,OTHER
+Elective Course Offerings,2,file04.pdf,H1
+Science,2,file04.pdf,H2
+Math,2,file04.pdf,OTHER
+Computer Science/,2,file04.pdf,TITLE
+Technology,2,file04.pdf,H1
+Art,2,file04.pdf,OTHER
+Applied,2,file04.pdf,OTHER
+Technology/,2,file04.pdf,OTHER
+Family Consumer,2,file04.pdf,OTHER
+Science and Other,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+AP Biology,2,file04.pdf,OTHER
+AP Chemistry,2,file04.pdf,OTHER
+AP Physics C,2,file04.pdf,OTHER
+Forensics,2,file04.pdf,OTHER
+Honors Anatomy,2,file04.pdf,OTHER
+and Physiology,2,file04.pdf,OTHER
+AP Environmental,2,file04.pdf,OTHER
+Science,2,file04.pdf,OTHER
+• Marine Biology,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+• MythBusting: The,2,file04.pdf,OTHER
+Organic Chemistry,2,file04.pdf,OTHER
+Genetics,2,file04.pdf,OTHER
+Astronomy,2,file04.pdf,OTHER
+Bioethics,2,file04.pdf,OTHER
+Science of,2,file04.pdf,OTHER
+Literature and,2,file04.pdf,OTHER
+Films,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
++AP Calculus,2,file04.pdf,H1
++AP Statistics,2,file04.pdf,OTHER
++Calculus,2,file04.pdf,OTHER
+"Probability,",2,file04.pdf,OTHER
+"Statistics,",2,file04.pdf,OTHER
+and Discrete,2,file04.pdf,OTHER
+Math,2,file04.pdf,OTHER
++Precalculus,2,file04.pdf,OTHER
+Algebra 3 &,2,file04.pdf,OTHER
+Trigonometry,2,file04.pdf,OTHER
+Applied Math,2,file04.pdf,OTHER
+Honors,2,file04.pdf,OTHER
+Accounting 1,2,file04.pdf,OTHER
+Investments,2,file04.pdf,OTHER
+AP,2,file04.pdf,OTHER
+Economics,2,file04.pdf,OTHER
+Business,2,file04.pdf,OTHER
+Org.,2,file04.pdf,OTHER
+Management,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+Computer,2,file04.pdf,H1
+Programming in C++,2,file04.pdf,OTHER
+Robotics,2,file04.pdf,OTHER
+Computer Science and,2,file04.pdf,OTHER
+Programming Concepts,2,file04.pdf,OTHER
+with Python,2,file04.pdf,OTHER
+AP Computer Science,2,file04.pdf,OTHER
+Principles,2,file04.pdf,OTHER
+AP Computer Science A,2,file04.pdf,OTHER
+Honors Data Structures,2,file04.pdf,OTHER
+and Advanced,2,file04.pdf,OTHER
+Programming,2,file04.pdf,OTHER
+Networks (CCNA cert),2,file04.pdf,OTHER
+"Switching, Routing, &",2,file04.pdf,OTHER
+Wireless Essentials,2,file04.pdf,OTHER
+(CCNA cert),2,file04.pdf,OTHER
+Cybersecurity (CCNA,2,file04.pdf,OTHER
+cert),2,file04.pdf,OTHER
+• Graphic,2,file04.pdf,OTHER
+Design,2,file04.pdf,OTHER
+• Digital,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+Photography,2,file04.pdf,OTHER
+Advanced,2,file04.pdf,OTHER
+Digital,2,file04.pdf,OTHER
+Photography,2,file04.pdf,OTHER
+***AP,2,file04.pdf,OTHER
+Captsone -,2,file04.pdf,OTHER
+Seminar and,2,file04.pdf,OTHER
+Research w/,2,file04.pdf,OTHER
+advisor,2,file04.pdf,OTHER
+approval,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+• Nutrition for an,2,file04.pdf,OTHER
+Active Lifestyle,2,file04.pdf,OTHER
+Engineering,2,file04.pdf,OTHER
+CAD and Design,2,file04.pdf,OTHER
+Foundations,2,file04.pdf,OTHER
+Television,2,file04.pdf,OTHER
+Production I / II,2,file04.pdf,OTHER
+•,2,file04.pdf,OTHER
+• Careers in,2,file04.pdf,OTHER
+Medicine (Phys,2,file04.pdf,OTHER
+Ed department),2,file04.pdf,OTHER
+• Woods Tech 1,2,file04.pdf,OTHER
+and 2,2,file04.pdf,OTHER
+• Honors,2,file04.pdf,OTHER
+Engineering and,2,file04.pdf,OTHER
+Design,2,file04.pdf,OTHER
+What Colleges Say!,2,file04.pdf,H1
+"When asked the question,  “Would participation in the",2,file04.pdf,OTHER
+STEM Pathways set PTHSD students apart when applying,2,file04.pdf,OTHER
+"to your school?”, colleges responded with the following:",2,file04.pdf,OTHER
+"Drew University: “Yes,it would show that they are",2,file04.pdf,OTHER
+challenging themselves in the classroom.”,2,file04.pdf,OTHER
+SUNY Binghamton:  “Yes. We are a R1 research institution,2,file04.pdf,OTHER
+and students with a strong STEM curriculum that includes,2,file04.pdf,OTHER
+research or lab work are generally more competitive in our,2,file04.pdf,OTHER
+applicant pool and more success as students at,2,file04.pdf,OTHER
+Binghamton because of their early HS experience.”,2,file04.pdf,OTHER
+NJIT: “Yes- this would demonstrate to Admissions that a,2,file04.pdf,OTHER
+"student is interested in STEM programs, and would be a",2,file04.pdf,OTHER
+strong candidate for our programs.”,2,file04.pdf,OTHER
+"Ithaca College:  “Yes, we look for students who participate",2,file04.pdf,OTHER
+in classes and activities that enhance their knowledge and,2,file04.pdf,OTHER
+skills in their area of interest.”,2,file04.pdf,OTHER
+Towson University: “Participation in this program would,2,file04.pdf,OTHER
+show us that the student is challenging him/herself in their,2,file04.pdf,OTHER
+courses which is something we look at when reviewing,2,file04.pdf,OTHER
+applications.”,2,file04.pdf,OTHER
+Montclair University:  “Rigorous math and science lab,2,file04.pdf,OTHER
+classes beyond standard curriculum could be looked at for,2,file04.pdf,OTHER
+scholarship eligibility along with high GPA.”,2,file04.pdf,OTHER
+For more information and our application please visit our website by clicking here.,2,file04.pdf,OTHER
+ADDRESS:,1,file05.pdf,OTHER
+TOPJUMP,1,file05.pdf,H2
+3735 PARKWAY,1,file05.pdf,H1
+"PIGEON  FORGE, TN  37863",1,file05.pdf,H2
+(NEAR DIXIE STAMPEDE ON  THE  PARKWAY),1,file05.pdf,OTHER
+RSVP: ----------------,1,file05.pdf,OTHER
+CLOSED TOED SHOES ARE REQUIRED FOR CLIMBING,1,file05.pdf,OTHER
+"PARENTS OR GUARDIANS NOT ATTENDING THE  PARTY,",1,file05.pdf,OTHER
+PLEASE VISIT TOPJUMP.COM TO  FILL OUT WAIVER,1,file05.pdf,OTHER
+SO YOUR CHILD CAN ATTEND.,1,file05.pdf,OTHER
+HOPE  To SEE  You THERE!,1,file05.pdf,H1
+WWW.TOPJUMP.COM,1,file05.pdf,OTHER
